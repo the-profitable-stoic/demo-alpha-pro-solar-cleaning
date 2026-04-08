@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Alpha Pro Solar cleaning",
+    "phone": "+19254467466",
+    "category": "power washing",
+    "city": "Sacramento",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "power-washing-red-charge",
+      "categoryGroup": "power-washing",
+      "name": "Red Charge",
+      "recipeFile": "power-washing/red-charge.astro",
+      "colors": {
+        "primary": "#0EA5E9",
+        "primaryDark": "#0369A1",
+        "primaryLight": "#c3e9fa",
+        "secondary": "#0d95d2",
+        "accent": "#22D3EE",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#0EA5E9",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "power-washing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Sacramento's Power Washing Experts",
+      "heroSubline": "Restore your home's beauty and protect its value. Alpha Pro Cleaning delivers exceptional results across Sacramento County.",
+      "aboutTitle": "Locally Owned, Deeply Rooted",
+      "aboutText": [
+        "Alpha Pro Cleaning started with a simple mission: to provide Sacramento homeowners with reliable and effective power washing services. We're not a franchise; we're your neighbors, dedicated to keeping our community looking its best.",
+        "Our approach is simple: quality workmanship, transparent pricing, and unwavering commitment to customer satisfaction. We use environmentally conscious cleaning solutions and techniques that are tough on grime but gentle on your property.",
+        "We're proud to be a part of the Sacramento community, and we believe in giving back. We regularly partner with local organizations to support neighborhood revitalization projects and initiatives."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team is trained to handle all types of surfaces and cleaning challenges specific to Sacramento's climate."
+        },
+        {
+          "title": "Eco-Friendly Solutions",
+          "description": "We use biodegradable detergents and responsible water management practices to protect our environment."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We're not happy until you are. We stand behind our work and ensure you're completely satisfied."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. You'll receive a detailed estimate before we begin any work."
+        }
+      ],
+      "ctaHeadline": "Get a Free Power Washing Quote",
+      "ctaSubline": "Transform your Sacramento home with our professional power washing services. Contact us today!"
+    },
+    "services": [
+      {
+        "slug": "house-washing",
+        "name": "House Washing",
+        "shortDescription": "Safely and effectively remove dirt, grime, and algae from your home's exterior.",
+        "description": "Sacramento's unique climate, with its hot summers and occasional wet winters, can take a toll on your home's exterior. Our house washing service is designed to combat the effects of sun, mold, and mildew buildup on various surfaces, including siding, stucco, and brick. We use a soft washing technique that combines low-pressure water with specialized cleaning solutions to lift away dirt and grime without damaging your home's delicate surfaces. This process is particularly effective in removing the black algae streaks common in the Sacramento area, leaving your home looking fresh and revitalized. We take extra care to protect your landscaping and outdoor fixtures during the cleaning process, ensuring a thorough and worry-free experience. From Midtown bungalows to Elk Grove's modern homes, we tailor our approach to suit your home's specific needs.",
+        "process": [
+          "Step 1: Pre-treatment with eco-friendly cleaning solution",
+          "Step 2: Soft washing with low-pressure equipment",
+          "Step 3: Thorough rinsing to remove all residue",
+          "Step 4: Final inspection to ensure satisfaction"
+        ],
+        "benefits": [
+          "Improves curb appeal",
+          "Extends the life of your siding",
+          "Removes harmful mold and mildew",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my house washed?",
+            "answer": "We recommend having your house washed every 1-2 years to maintain its appearance and prevent damage from mold and mildew."
+          },
+          {
+            "question": "Will the cleaning solution harm my plants?",
+            "answer": "No, we use eco-friendly, biodegradable cleaning solutions that are safe for your plants and landscaping. We also take precautions to protect your plants during the cleaning process."
+          },
+          {
+            "question": "What type of siding can you clean?",
+            "answer": "We can safely clean all types of siding, including vinyl, wood, stucco, brick, and more. We adjust our cleaning methods to suit the specific needs of each surface."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-cleaning",
+        "name": "Driveway Cleaning",
+        "shortDescription": "Restore your driveway's appearance and eliminate unsightly oil stains and grime.",
+        "description": "Driveways in Sacramento are constantly exposed to the elements, from intense summer heat to occasional winter flooding. This exposure, combined with vehicle traffic, can lead to stubborn oil stains, dirt buildup, and unsightly grime. Our driveway cleaning service utilizes high-pressure washing to effectively remove these contaminants, restoring your driveway's original appearance. We pre-treat heavily stained areas with specialized degreasers to loosen stubborn oil and grease before pressure washing. Our team is equipped to handle various driveway surfaces, including concrete, asphalt, and pavers. We also offer sealing services to protect your driveway from future stains and damage, helping to extend its lifespan. Whether you're in a historic Midtown neighborhood or a newer development in Natomas, we can help you maintain a clean and inviting driveway.",
+        "process": [
+          "Step 1: Inspection of driveway surface",
+          "Step 2: Pre-treatment of oil stains and grime",
+          "Step 3: High-pressure washing to remove contaminants",
+          "Step 4: Optional sealing for added protection"
+        ],
+        "benefits": [
+          "Removes oil stains and grime",
+          "Restores driveway's appearance",
+          "Prevents weed growth in cracks",
+          "Extends driveway lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How long does driveway cleaning take?",
+            "answer": "The duration of driveway cleaning depends on the size and condition of your driveway, but it typically takes between 2-4 hours."
+          },
+          {
+            "question": "Will pressure washing damage my concrete driveway?",
+            "answer": "When done properly, pressure washing will not damage your concrete driveway. Our technicians are trained to use the appropriate pressure settings for different surfaces."
+          },
+          {
+            "question": "Do you offer sealing for driveways?",
+            "answer": "Yes, we offer sealing services to protect your driveway from future stains and damage. Sealing can also enhance the appearance of your driveway."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-cleaning",
+        "name": "Deck & Patio Cleaning",
+        "shortDescription": "Revitalize your outdoor living spaces with our professional deck and patio cleaning services.",
+        "description": "Decks and patios in Sacramento are havens for outdoor living, but they can quickly become covered in dirt, algae, and mildew, especially during the wetter months. Our deck and patio cleaning service is designed to restore these surfaces to their original beauty, creating a clean and inviting space for relaxation and entertainment. We use a combination of gentle cleaning solutions and low-pressure washing to remove dirt, grime, and organic growth without damaging the wood or stone. For wooden decks, we offer staining and sealing services to protect the wood from the elements and extend its lifespan. We also clean various types of patios, including concrete, pavers, and flagstone, ensuring a thorough and even clean. Whether you have a cozy backyard patio in Land Park or a sprawling deck in East Sacramento, we can help you create a beautiful and functional outdoor living space.",
+        "process": [
+          "Step 1: Inspection of deck or patio surface",
+          "Step 2: Application of cleaning solution",
+          "Step 3: Low-pressure washing to remove dirt and grime",
+          "Step 4: Optional staining or sealing for wooden decks"
+        ],
+        "benefits": [
+          "Removes dirt, algae, and mildew",
+          "Restores deck or patio appearance",
+          "Extends the life of wooden decks",
+          "Creates a clean and inviting outdoor space"
+        ],
+        "faq": [
+          {
+            "question": "What type of cleaning solution do you use for decks and patios?",
+            "answer": "We use eco-friendly, biodegradable cleaning solutions that are safe for your plants and pets. We also consider the type of material your deck or patio is made of when choosing the appropriate cleaner."
+          },
+          {
+            "question": "How often should I clean my deck or patio?",
+            "answer": "We recommend cleaning your deck or patio at least once a year, or more frequently if it is heavily used or exposed to the elements."
+          },
+          {
+            "question": "Do you offer staining and sealing for decks?",
+            "answer": "Yes, we offer staining and sealing services to protect your wooden deck from the elements and extend its lifespan. We can help you choose the right stain and sealant for your deck's wood type and desired aesthetic."
+          }
+        ]
+      },
+      {
+        "slug": "fence-cleaning",
+        "name": "Fence Cleaning",
+        "shortDescription": "Remove unsightly mold and mildew from your fence, restoring its beauty and integrity.",
+        "description": "Fences in Sacramento are constantly exposed to the elements, leading to the buildup of mold, mildew, and dirt. Our fence cleaning service is designed to remove these contaminants, restoring your fence's appearance and protecting it from damage. We use a combination of gentle cleaning solutions and low-pressure washing to safely and effectively clean various fence materials, including wood, vinyl, and metal. For wooden fences, we offer staining and sealing services to protect the wood from the elements and extend its lifespan. We take extra care to protect your landscaping and surrounding areas during the cleaning process. Whether you have a classic wooden fence in a historic neighborhood or a modern vinyl fence in a newer development, we can help you maintain a clean and attractive property perimeter.",
+        "process": [
+          "Step 1: Inspection of fence material and condition",
+          "Step 2: Application of cleaning solution",
+          "Step 3: Low-pressure washing to remove dirt and grime",
+          "Step 4: Optional staining or sealing for wooden fences"
+        ],
+        "benefits": [
+          "Removes mold, mildew, and dirt",
+          "Restores fence appearance",
+          "Extends the life of wooden fences",
+          "Improves curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What type of cleaning solution do you use for fences?",
+            "answer": "We use eco-friendly, biodegradable cleaning solutions that are safe for your plants and pets. We also consider the type of material your fence is made of when choosing the appropriate cleaner."
+          },
+          {
+            "question": "How often should I clean my fence?",
+            "answer": "We recommend cleaning your fence at least once a year, or more frequently if it is heavily shaded or exposed to moisture."
+          },
+          {
+            "question": "Do you offer staining and sealing for wooden fences?",
+            "answer": "Yes, we offer staining and sealing services to protect your wooden fence from the elements and extend its lifespan. We can help you choose the right stain and sealant for your fence's wood type and desired aesthetic."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Keep your gutters flowing freely with our professional gutter cleaning services.",
+        "description": "Sacramento's seasonal rainfall can quickly clog gutters with leaves, debris, and dirt, leading to water damage and potential foundation problems. Our gutter cleaning service is designed to remove these obstructions, ensuring that your gutters are functioning properly. We carefully remove all debris from your gutters and downspouts, ensuring that water can flow freely away from your home. We also inspect your gutters for any damage or leaks and provide recommendations for repairs. Clogged gutters can lead to water damage to your roof, siding, and foundation, so regular gutter cleaning is essential for maintaining your home's value and integrity. Whether you live in a historic home with intricate gutter systems or a newer home with standard gutters, we can help you keep your gutters clean and functioning properly.",
+        "process": [
+          "Step 1: Removal of debris from gutters and downspouts",
+          "Step 2: Flushing of gutters to ensure proper flow",
+          "Step 3: Inspection for damage or leaks",
+          "Step 4: Disposal of debris"
+        ],
+        "benefits": [
+          "Prevents water damage to your home",
+          "Protects your foundation",
+          "Prevents pest infestations",
+          "Extends the life of your gutters"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall, to remove leaves and debris that accumulate during those seasons. If you have many trees around your home, you may need to clean your gutters more frequently."
+          },
+          {
+            "question": "Can I clean my gutters myself?",
+            "answer": "Cleaning gutters can be dangerous, especially if you are not comfortable working on a ladder. We recommend hiring a professional gutter cleaning service to ensure the job is done safely and effectively."
+          },
+          {
+            "question": "Do you offer gutter repair services?",
+            "answer": "Yes, we offer gutter repair services to fix any damage or leaks in your gutters. We can also replace damaged or missing sections of gutter."
+          }
+        ]
+      },
+      {
+        "slug": "roof-cleaning",
+        "name": "Roof Cleaning",
+        "shortDescription": "Safely remove algae and moss from your roof to extend its lifespan and improve its appearance.",
+        "description": "Roofs in Sacramento are susceptible to algae and moss growth, especially on shaded areas. These organisms can damage your roof shingles and shorten its lifespan. Our roof cleaning service is designed to safely and effectively remove algae and moss, restoring your roof's appearance and protecting it from further damage. We use a soft washing technique that combines low-pressure water with specialized cleaning solutions to kill algae and moss without damaging your roof shingles. This process is particularly effective in removing the black streaks caused by algae, leaving your roof looking clean and revitalized. We take extra care to protect your landscaping and surrounding areas during the cleaning process. Regular roof cleaning can extend the life of your roof and prevent costly repairs. Whether you have an older home with clay tiles or a newer home with asphalt shingles, we can help you maintain a clean and healthy roof.",
+        "process": [
+          "Step 1: Inspection of roof material and condition",
+          "Step 2: Application of cleaning solution",
+          "Step 3: Soft washing to remove algae and moss",
+          "Step 4: Rinsing to remove residue"
+        ],
+        "benefits": [
+          "Removes algae and moss",
+          "Extends the life of your roof",
+          "Improves roof appearance",
+          "Prevents costly repairs"
+        ],
+        "faq": [
+          {
+            "question": "Will roof cleaning damage my shingles?",
+            "answer": "No, we use a soft washing technique that combines low-pressure water with specialized cleaning solutions to safely remove algae and moss without damaging your roof shingles."
+          },
+          {
+            "question": "How often should I clean my roof?",
+            "answer": "We recommend cleaning your roof every 2-3 years, or more frequently if it is heavily shaded or prone to algae and moss growth."
+          },
+          {
+            "question": "What type of cleaning solution do you use for roofs?",
+            "answer": "We use eco-friendly, biodegradable cleaning solutions that are safe for your plants and pets. Our solutions are specifically designed to kill algae and moss without damaging roof shingles."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Elk Grove",
+        "slug": "elk-grove-ca",
+        "state": "CA",
+        "content": "Alpha Pro Solar Cleaning is proud to offer our professional power washing and solar panel cleaning services to the residents and businesses of Elk Grove, California. As one of Sacramento County's largest cities, Elk Grove boasts a thriving community and a diverse range of properties, from modern master-planned communities developed in the 1990s and 2000s to established neighborhoods. We understand the unique challenges that Elk Grove's climate presents, including hot, dry summers where temperatures frequently exceed 100°F. These conditions can lead to a build-up of dirt, algae, and other contaminants on your home's exterior and solar panels, impacting their efficiency and appearance.\n\nOur experienced technicians utilize state-of-the-art equipment and eco-friendly cleaning solutions to safely and effectively remove these unsightly blemishes. We are committed to providing exceptional service and ensuring your complete satisfaction. Whether you need your siding, driveway, patio, or solar panels cleaned, Alpha Pro Solar Cleaning is here to help you maintain the beauty and value of your Elk Grove property. We use soft washing on delicate surfaces, and high pressure where appropriate, to ensure a thorough and safe cleaning.",
+        "localContext": "Elk Grove's newer, master-planned communities often benefit from regular power washing to maintain curb appeal and property values in the face of the hot Sacramento Valley climate.",
+        "nearbyAreas": [
+          "Sacramento",
+          "Laguna",
+          "Galt"
+        ]
+      },
+      {
+        "city": "Roseville",
+        "slug": "roseville-ca",
+        "state": "CA",
+        "content": "Alpha Pro Solar Cleaning extends its expert power washing services to the vibrant city of Roseville, California. Known for its carefully planned communities developed primarily in the 1990s and 2000s, Roseville offers a mix of residential and commercial properties that require regular maintenance to combat the effects of the region's climate. The hot, dry summers, with temperatures often soaring above 100°F, can take a toll on exterior surfaces, leading to the accumulation of dirt, mildew, and other unsightly stains.\n\nWe are dedicated to providing Roseville homeowners and business owners with top-quality power washing solutions tailored to their specific needs. Our skilled technicians use advanced techniques and environmentally friendly products to safely and effectively clean a variety of surfaces, including siding, driveways, patios, decks, and solar panels. Let Alpha Pro Solar Cleaning help you keep your Roseville property looking its best, enhancing its curb appeal and protecting its value. We are experts at removing algae, moss, and other contaminants common to the area.",
+        "localContext": "Roseville's planned communities and hot summers mean regular power washing is essential for maintaining property values and preventing damage from the elements.",
+        "nearbyAreas": [
+          "Rocklin",
+          "Citrus Heights",
+          "Granite Bay"
+        ]
+      },
+      {
+        "city": "Folsom",
+        "slug": "folsom-ca",
+        "state": "CA",
+        "content": "Alpha Pro Solar Cleaning proudly serves the residents and businesses of Folsom, California, with our comprehensive power washing and solar panel cleaning services. Folsom, a city known for its attractive planned communities and proximity to Folsom Lake, experiences the same hot, dry summers characteristic of the Sacramento Valley, with temperatures frequently exceeding 100°F. This climate can contribute to the build-up of dirt, algae, and other contaminants on exterior surfaces, impacting their appearance and longevity.\n\nOur team of experienced professionals is equipped with the latest technology and environmentally responsible cleaning solutions to safely and effectively remove these unsightly blemishes. We are committed to delivering exceptional results and exceeding your expectations. Whether you need your home's siding, driveway, patio, or solar panels cleaned, Alpha Pro Solar Cleaning is your trusted partner in Folsom for maintaining the beauty and value of your property. We understand the specific needs of Folsom properties and tailor our services accordingly.",
+        "localContext": "Folsom's newer homes and hot climate make regular power washing a vital part of property maintenance to prevent staining and degradation.",
+        "nearbyAreas": [
+          "El Dorado Hills",
+          "Granite Bay",
+          "Rancho Cordova"
+        ]
+      },
+      {
+        "city": "Sacramento",
+        "slug": "sacramento-ca",
+        "state": "CA",
+        "content": "Alpha Pro Solar Cleaning is your premier power washing and solar panel cleaning service provider in Sacramento, CA. From historic homes in Midtown to modern residences in the suburbs, Sacramento's diverse architecture requires a delicate yet effective approach to exterior cleaning. Our services combat the effects of Sacramento's hot summers and occasional wet winters, removing dirt, mildew, and algae that can accumulate on various surfaces.\n\nWe offer a full range of power washing and solar panel cleaning solutions tailored to Sacramento's unique needs. Our experienced technicians use state-of-the-art equipment and eco-friendly cleaning solutions to ensure a thorough and safe clean for your home or business. Whether you need to revitalize your siding, driveway, patio, or solar panels, Alpha Pro Solar Cleaning is committed to providing exceptional service and exceeding your expectations.",
+        "localContext": "Sacramento's historic buildings and modern homes alike benefit from regular power washing to maintain their appearance and protect against the elements.",
+        "nearbyAreas": [
+          "West Sacramento",
+          "Citrus Heights",
+          "Elk Grove"
+        ]
+      },
+      {
+        "city": "Citrus Heights",
+        "slug": "citrus-heights-ca",
+        "state": "CA",
+        "content": "Alpha Pro Solar Cleaning brings its expertise in power washing and solar panel cleaning to Citrus Heights, CA. This vibrant community, with its mix of residential and commercial properties, benefits from our specialized cleaning services. Citrus Heights experiences hot, dry summers, which can lead to the accumulation of dirt, grime, and algae on building exteriors and solar panels.\n\nOur skilled technicians utilize advanced techniques and environmentally friendly cleaning solutions to safely and effectively remove these contaminants. We cater to the specific needs of Citrus Heights residents and business owners, offering customized solutions for siding, driveways, patios, decks, and solar panels. Alpha Pro Solar Cleaning helps you maintain the beauty and value of your Citrus Heights property, enhancing its curb appeal and protecting it from the damaging effects of the elements.",
+        "localContext": "Citrus Heights properties require regular power washing to combat the effects of the hot summers and maintain a clean and attractive appearance.",
+        "nearbyAreas": [
+          "Roseville",
+          "Orangevale",
+          "Fair Oaks"
+        ]
+      },
+      {
+        "city": "Rancho Cordova",
+        "slug": "rancho-cordova-ca",
+        "state": "CA",
+        "content": "Alpha Pro Solar Cleaning is proud to serve Rancho Cordova, CA, with top-notch power washing and solar panel cleaning services. As a rapidly growing city with a mix of residential, commercial, and industrial properties, Rancho Cordova presents unique cleaning challenges. Our team is equipped to handle a wide range of surfaces and cleaning needs, from removing dirt and grime from building exteriors to restoring the efficiency of solar panels.\n\nWe understand the importance of maintaining a clean and presentable property in Rancho Cordova. Our experienced technicians use state-of-the-art equipment and eco-friendly cleaning solutions to deliver exceptional results. Whether you need to revitalize your home's siding, clean your commercial building's exterior, or optimize the performance of your solar panels, Alpha Pro Solar Cleaning is your trusted partner in Rancho Cordova.",
+        "localContext": "Rancho Cordova's diverse properties benefit from professional power washing services to maintain their appearance and value.",
+        "nearbyAreas": [
+          "Folsom",
+          "Gold River",
+          "Carmichael"
+        ]
+      },
+      {
+        "city": "Rocklin",
+        "slug": "rocklin-ca",
+        "state": "CA",
+        "content": "Alpha Pro Solar Cleaning provides professional power washing and solar panel cleaning services to the residents and businesses of Rocklin, California. Rocklin, known for its family-friendly atmosphere and well-maintained properties, benefits from our expertise in exterior cleaning. We understand the challenges posed by the Sacramento Valley climate, including hot summers and occasional rain, which can contribute to the build-up of dirt, algae, and mildew on various surfaces.\n\nOur skilled technicians use advanced techniques and environmentally friendly products to safely and effectively clean siding, driveways, patios, decks, and solar panels. We are committed to delivering exceptional results and ensuring your complete satisfaction. Alpha Pro Solar Cleaning helps you maintain the beauty and value of your Rocklin property, enhancing its curb appeal and protecting it from the elements. We are especially experienced with removing hard water stains.",
+        "localContext": "Rocklin's well-kept homes require regular power washing to maintain their pristine appearance and protect against environmental damage.",
+        "nearbyAreas": [
+          "Roseville",
+          "Granite Bay",
+          "Lincoln"
+        ]
+      },
+      {
+        "city": "Lincoln",
+        "slug": "lincoln-ca",
+        "state": "CA",
+        "content": "Alpha Pro Solar Cleaning offers comprehensive power washing and solar panel cleaning services to the community of Lincoln, CA. As a growing city with a mix of established neighborhoods and new developments, Lincoln benefits from our specialized cleaning solutions. We address the common issues caused by the Sacramento Valley climate, such as the accumulation of dirt, algae, and mildew on exterior surfaces.\n\nOur team of experienced professionals is equipped with the latest technology and environmentally responsible cleaning solutions to safely and effectively clean a variety of surfaces. We are dedicated to providing Lincoln homeowners and business owners with top-quality service and exceptional results. Whether you need to revitalize your home's siding, clean your commercial building's exterior, or optimize the performance of your solar panels, Alpha Pro Solar Cleaning is your trusted partner in Lincoln.",
+        "localContext": "Lincoln's growing community relies on professional power washing services to maintain the cleanliness and appearance of its properties.",
+        "nearbyAreas": [
+          "Rocklin",
+          "Roseville",
+          "Loomis"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "House Washing",
+        "text": "Alpha Pro Cleaning did an amazing job on our house! We live in East Sacramento, and the black algae was really starting to make our house look dingy. They were professional, efficient, and our house looks brand new. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Driveway Cleaning",
+        "text": "Good service! They removed some pretty tough oil stains from my driveway. It's a huge improvement. I wish they had been a little more careful around my landscaping, but overall, I'm happy with the results.",
+        "date": "2024-06-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Deck & Patio Cleaning",
+        "text": "Our deck was covered in green algae and looked terrible. Alpha Pro Cleaning completely transformed it! We can finally enjoy our backyard again. The team was friendly and professional.",
+        "date": "2024-05-03"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Fence Cleaning",
+        "text": "We had our wooden fence cleaned and stained. Looks great! The crew was on time, professional and did an excellent job. They even cleaned up all the debris afterwards. I'd recommend them.",
+        "date": "2024-04-11"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "I hired Alpha Pro Cleaning to clean my gutters, and they did a thorough job. They removed all the leaves and debris, and my gutters are now flowing freely. I'll definitely use them again next year.",
+        "date": "2024-03-01"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Roof Cleaning",
+        "text": "Our roof was covered in black streaks from algae. Alpha Pro Cleaning came out and cleaned it, and it looks like a new roof! They were very careful and professional, and I would highly recommend them.",
+        "date": "2024-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Sacramento Power Washing | Alpha Pro",
+        "description": "Expert power washing services in Sacramento, CA. House washing, driveway cleaning, deck cleaning & more. Free quotes!"
+      },
+      "about": {
+        "title": "About Alpha Pro Cleaning | Sacramento",
+        "description": "Learn about Alpha Pro Cleaning, Sacramento's trusted power washing company. Our commitment to quality and customer satisfaction."
+      },
+      "services": {
+        "title": "Sacramento Power Washing Services",
+        "description": "Comprehensive power washing services in Sacramento: house washing, driveway cleaning, deck cleaning, and more. Get a free estimate!"
+      },
+      "contact": {
+        "title": "Contact Alpha Pro Cleaning | Sacramento",
+        "description": "Contact Alpha Pro Cleaning for power washing services in Sacramento. Get a free quote and schedule your service today!"
+      },
+      "reviews": {
+        "title": "Alpha Pro Cleaning Reviews | Sacramento",
+        "description": "Read reviews from satisfied Alpha Pro Cleaning customers in Sacramento. See why we're the trusted choice for power washing."
+      },
+      "service-areas": {
+        "title": "Power Washing Service Areas | Sacramento",
+        "description": "Alpha Pro Cleaning provides power washing services throughout Sacramento and surrounding areas. Check our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "house-washing": "/images/service-house-washing.webp",
+      "driveway-cleaning": "/images/service-driveway-cleaning.webp",
+      "deck-patio-cleaning": "/images/service-deck-patio-cleaning.webp",
+      "fence-cleaning": "/images/service-fence-cleaning.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "roof-cleaning": "/images/service-roof-cleaning.webp"
+    },
+    "servicesResponsive": {
+      "house-washing": {
+        "src": "/images/service-house-washing.webp",
+        "srcset": "/images/service-house-washing-400w.webp 400w, /images/service-house-washing-800w.webp 800w, /images/service-house-washing-1200w.webp 1200w, /images/service-house-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-cleaning": {
+        "src": "/images/service-driveway-cleaning.webp",
+        "srcset": "/images/service-driveway-cleaning-400w.webp 400w, /images/service-driveway-cleaning-800w.webp 800w, /images/service-driveway-cleaning-1200w.webp 1200w, /images/service-driveway-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-cleaning": {
+        "src": "/images/service-deck-patio-cleaning.webp",
+        "srcset": "/images/service-deck-patio-cleaning-400w.webp 400w, /images/service-deck-patio-cleaning-800w.webp 800w, /images/service-deck-patio-cleaning-1200w.webp 1200w, /images/service-deck-patio-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-cleaning": {
+        "src": "/images/service-fence-cleaning.webp",
+        "srcset": "/images/service-fence-cleaning-400w.webp 400w, /images/service-fence-cleaning-800w.webp 800w, /images/service-fence-cleaning-1200w.webp 1200w, /images/service-fence-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-cleaning": {
+        "src": "/images/service-roof-cleaning.webp",
+        "srcset": "/images/service-roof-cleaning-400w.webp 400w, /images/service-roof-cleaning-800w.webp 800w, /images/service-roof-cleaning-1200w.webp 1200w, /images/service-roof-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
